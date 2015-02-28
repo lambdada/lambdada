@@ -7,4 +7,4 @@ Ce dépôt contient le contenu des numéros passés, présent, et à venir de la
 
 # Numéros
 
-* (0x00)[0x00]
+* [0x00](0x00)
