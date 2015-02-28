@@ -1,6 +1,6 @@
 # Sommaire
 
-## Un programme racket (dialecte lisp) qui se voudrait agréable à lire ##
+## Un programme Racket qui se voudrait agréable à lire ##
 
 Auteur(s): Bernard
 
@@ -25,7 +25,7 @@ Il existe un mythe très diffusé dans la culture informatique selon
 lequel il existerait "un modèle" du domaine que nous cherchons à
 implémenter et que beaucoup des difficultés que nous rencontrons en
 informatique proviennent de nos echecs à l'implémenter correctement.
-Les informaticiens tirent de ce mythe de noubreuses activités dites de
+Les informaticiens tirent de ce mythe de nombreuses activités dites de
 "modélisation" qui visent à explorer ce modèle selon différents
 paradigmes pour ensuite l'implémenter.
 
@@ -36,5 +36,5 @@ Nous en déduirons qu'il est donc inutile de perdre son temps à tenter
 de le formaliser et d'essayer de le capturer (en dehors du code).
 
 Nous esquisserons des propositions d'activités qui nous paraissent
-plus pertinentes pour résoudre les problèmes que nous chercons à
+plus pertinentes pour résoudre les problèmes que nous cherchons à
 résoudre avec ce concept de "modélisation".
