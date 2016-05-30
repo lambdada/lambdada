@@ -22,6 +22,8 @@ Discussion sur la puissance de transformation que permet l'invitation : rendre p
 
 Arnaud évoque un travail en cours de relecture d'un livre sur [Idris](http://www.idris-lang.org/), un langage permettant d'exprimer des types dépendants. Ce qui amène à poser la question "qu'est ce que les types dépendants ?" et à tenter d'y répondre.
 
+* [Article](types-dependants-idris.md)
+
 ## NCrafts
 
 Arnaud et Christophe parlant à [nCrafts](http://ncrafts.io) on évoque rapidement le programme de la conférence.
